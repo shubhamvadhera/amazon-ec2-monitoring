@@ -1,0 +1,770 @@
+[
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1449013980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448988780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1449006780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448974380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.37,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448999580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1449021180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.37,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448949180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 100,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448945580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 0.17,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1449028380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.59,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1449010380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.37,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1449003180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.33,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448967180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1449017580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.37,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448981580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448952780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 100,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448959980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448985180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448956380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 100,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448977980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.37,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448970780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448992380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448963580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1448995980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-b56a2571",
+    "region": "us-west-2",
+    "post_date": "1449024780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.37,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1449013980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.53,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448988780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1449006780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.53,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448974380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.33,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448999580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.83,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1449021180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448949180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 3.83,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448945580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 0.17,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1449028380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.8,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1449010380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.36,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1449003180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.53,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448967180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1449017580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.64,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448981580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.67,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448952780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 3.17,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448959980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 2,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448985180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448956380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 2.17,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448977980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448970780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448992380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.53,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448963580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1448995980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.67,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-45cf8281",
+    "region": "us-west-2",
+    "post_date": "1449024780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 1.83,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1449013980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.33,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448988780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 19.83,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1449006780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.52,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448974380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448999580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.79,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1449021180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.83,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448949180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 100,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448945580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 100,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1449010380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.33,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1449028380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 9.17,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1449003180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448967180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.64,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1449017580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 9,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448981580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448952780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.37,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448959980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448985180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.64,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448956380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448977980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.81,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448970780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448992380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448963580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.67,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1448995980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.67,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-30aae5f4",
+    "region": "us-west-2",
+    "post_date": "1449024780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 8.83,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1449013980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448988780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1449006780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448974380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448999580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1449021180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448949180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 100,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448945580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 6.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1449010380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1449028380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1449003180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448967180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1449017580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448981580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448952780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 100,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448959980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.37,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448985180000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448956380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448977980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448970780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448992380000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448963580000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.5,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1448995980000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.54,
+    "unit": "Percent"
+  },
+  {
+    "instanceName": "i-0bf021cf",
+    "region": "us-west-2",
+    "post_date": "1449024780000",
+    "metric_type": "CPUUtilization",
+    "metric_value": 12.37,
+    "unit": "Percent"
+  }
+]

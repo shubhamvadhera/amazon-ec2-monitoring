@@ -1,0 +1,16 @@
+curl -XPUT http://localhost:9200/requestcount -d '
+{
+ "mappings" : {
+  "_default_" : {
+   "properties" : {
+    "instanceName" : {"type": "string", "index" : "not_analyzed" },
+    "region" : {"type": "string", "index" : "not_analyzed" },
+    "post_date" : {"type": "date","format":"epoch_millis", "index" : "not_analyzed" },
+    "metric_type" : {"type": "string", "index" : "not_analyzed" },
+    "metric_value" : {"type": "float", "index" : "not_analyzed" },
+    "unit" : { "type" : "string","index" : "not_analyzed" }
+   }
+  }
+ }
+}
+';

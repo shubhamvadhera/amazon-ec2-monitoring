@@ -1,7 +1,7 @@
-# cmpe273-teamproject
+# Amazon EC2 Instance Monitoring
+###  Using CloudWatch API's
 
-Amazon Ec2 Instance Monitoring using CloudWatch API's.
+The dashborad monitors various instances and shows comparable graphs of each metrice.
 
-The dashborad indicates which instances are under high CPU load,Memory load,Network I/O and Disk I/O
-
-
+Following metrices are bieng monitored:
+ 1. 

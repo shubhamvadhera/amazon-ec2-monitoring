@@ -27,7 +27,7 @@ Following metrics are being monitored for this project:
 5. VolumeReadOps
 6. RequestCount
 
-The program supports all the metrics which are supported by aws-sdk.
+The program supports all the metrics which are supported by aws-sdk-go
 
 ###Instructions:
 To run the program, first run the script. You need to first update the file according to your GOPATH and GOROOT.

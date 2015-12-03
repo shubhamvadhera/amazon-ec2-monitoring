@@ -30,13 +30,19 @@ Following metrics are being monitored for this project:
 The program supports all the metrics which are supported by aws-sdk-go
 
 ###Instructions:
-To run the program, first run the script. You need to first update the file according to your GOPATH and GOROOT.
+1. Start elastic search server
+
+2. Start kibana server
+
+
+3. Run this script. You need to first update the file according to your GOPATH and GOROOT.
 
 ```shell
 ./pushdata.sh
 ```
 
-The script first triggers metrics.go and then server.js.
+The script triggers metrics.go and then server.js.
+
 metrics.go collects stats from AWS console and writes output in .json files.
 server.js parses .json and saves data into elastic search.
 

@@ -51,8 +51,8 @@ type instanceMetricResponse struct {
 }
 
 /*--- Constants ---*/
-const accessKeyID string = "AKIAIVUWFTRSWNFQ7GNA"
-const secretAccessKey string = "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"
+const accessKeyID string = "-------------------------"
+const secretAccessKey string = "-------------------------------"
 
 /*--- Global Variables ---*/
 var instance1 = instance{name: "i-b56a2571", typ: "InstanceId", region: "us-west-2"}

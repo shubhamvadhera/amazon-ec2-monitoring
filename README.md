@@ -1,6 +1,9 @@
 Amazon Ec2 instance monitoring using data fetched through CloudWatch API.
+
 The dashboard indicates which instances are under high CPU load, memory load, network I/O, Disk I/O.
+
 Technologies used:
+
 GoLang
 NodeJs
 ElasticSearch

@@ -1,9 +1,9 @@
-#Amazon EC2 instance monitoring
-##Using CloudWatch API.
+# Amazon EC2 instance monitoring
+## Using CloudWatch API.
 
 The dashboard monitors various EC2 instances and plots the metrics on a graph, thus allowing a comparison of all the instances so that we know which instances are under high CPU load, memory load, network I/O, Disk I/O, as well as resource utilization by number of HTTP/TCP requests
 
-###Technology stack:
+### Technology stack:
 
  * Golang
  * NodeJs
@@ -29,7 +29,7 @@ Following metrics are being monitored for this project:
 
 The program supports all the metrics which are supported by aws-sdk-go
 
-###Instructions:
+### Instructions:
 1. Start elastic search server
 
 2. Start kibana server
